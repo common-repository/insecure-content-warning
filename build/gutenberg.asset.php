@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('react', 'wp-api-request', 'wp-components', 'wp-data', 'wp-dom', 'wp-dom-ready', 'wp-element', 'wp-i18n', 'wp-keyboard-shortcuts', 'wp-plugins'), 'version' => 'af229dcfc52737777db1');
